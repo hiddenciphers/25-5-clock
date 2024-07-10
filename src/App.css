@@ -138,7 +138,7 @@ button[data-setter]:hover { opacity: 0.5; }
 
 @media (max-width: 450px) {
   .labels {
-    margin-left: 35px;
+    margin-left: 32.5px;
     gap: 6em;
   }
 }
