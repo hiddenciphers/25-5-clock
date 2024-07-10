@@ -135,3 +135,9 @@ button[data-setter]:hover { opacity: 0.5; }
 #hiddenciphers:hover {
   opacity: 0.8;
 }
+
+@media (max-width: 450px) {
+  .labels {
+    margin-left: 20px;
+  }
+}

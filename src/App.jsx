@@ -136,7 +136,7 @@ function App() {
         </div>
       </div>
       <audio id="beep" ref={beepRef} src="https://ipfs.io/ipfs/QmWH6SPnzRd2SZy3QZPMrS1wSRFwc76fsEzfJ6TRjhemcq" />
-      <span id='year'><a href='https://www.github.com/hiddenciphers' id='hiddenciphers'>@hiddenciphers</a>2024</span>
+      <span id='year'><a href='https://www.github.com/hiddenciphers' target='_blank' id='hiddenciphers'>@hiddenciphers</a>2024</span>
     </div>
   );
 }
